@@ -9,7 +9,8 @@ const Header = () => {
                 <p className='hover:text-fuchsia-900'><NavLink to="/">Home</NavLink></p>
                 <p className='hover:text-fuchsia-900'><NavLink to="/mobiles">Mobiles</NavLink></p>
                 <p className='hover:text-fuchsia-900'><NavLink to="/laptops">Laptops</NavLink></p>
-                <p><NavLink to="/"></NavLink></p>
+                <p><NavLink to="/users">Users</NavLink></p>
+                <p><NavLink to="/users2">Users2</NavLink></p>
             </nav>
         </div>
     );
